@@ -1,25 +1,22 @@
-## Welcome to GitHub Pages
+## 欢迎来到chen0331的个人博客！💖💖💖💖💖💖💖💖
 
-You can use the [editor on GitHub](https://github.com/chen0331/chen0331.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=0&id=7337143222&auto=1&height=90"></iframe>
+### 你可以在这里[ GitHub](https://github.com/chen0331/chen0331.github.io/edit/main/index.md)来咨询或联系我
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 关于我
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 我是chen0331，你好👌
+## 我是一个非专业的网站编写者，你可以在我的GitHub获取fork🧙‍♂️🤱
+### 谢谢你的支持哦。谢谢🧡💛💚💙💜🤎🖤🤍
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -28,10 +25,8 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Jekyll 主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chen0331/chen0331.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+你可以在这里获取类似的主题与框架 [repository settings](https://github.com/chen0331/chen0331.github.io/settings/pages).
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 如有疑问 请在[这里](https://user.qzone.qq.com/3488440855?source=namecardhoverqzone) or [contact support](https://support.github.com/contact)获取帮助哦👀
