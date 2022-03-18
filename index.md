@@ -8,14 +8,21 @@
 ### ~~关于我~~
 
 ```
-# 男的，今年初三
-## 数码，游戏，编程✨✨✨✨✨✨✨✨✨
-### 可能不专业，但绝对热爱
-####你可以在[这里](https://user.qzone.qq.com/3488440855/infocenter)找到我
+ 男的，今年初三
+ 数码，游戏，编程✨✨✨✨✨✨✨✨✨
+ 可能不专业，但绝对热爱
+ 你可以在[这里](https://user.qzone.qq.com/3488440855/infocenter)找到我
 ```
-
-###关于本网站的支持
-
-~~Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chen0331/chen03310808.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.~~
-
-~~Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it ~~
+#### 找到我你可以：
+- [ ] 恋爱🙅‍
+- [x] 交友👍
+- [x] 打游戏🎮
+- [x] 聊天🤳
+- [x] 学习📕
+# 我的联系方式
+```
+QQ🐧:3488440855
+微信📱以及电话：18919029019
+rockstar games：chennnnn0331
+GitHub👾：chen0331
+```
