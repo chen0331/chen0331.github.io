@@ -1,4 +1,4 @@
-## ***欢迎来到小陈的博客❤🤍🖤🤎💜💚💛💛
+## ***欢迎来到小陈的博客❤🤍🖤🤎💜💚💛💛***
 
 你可以在[GitHub](https://github.com/chen0331/)来访问我的GitHub主页////别忘了给个star哦🙌
 
@@ -16,6 +16,6 @@
 
 ###关于本网站的支持
 
-~~Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chen0331/chen03310808.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+~~Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chen0331/chen03310808.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.~~
 
-~~Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it 
+~~Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it ~~
