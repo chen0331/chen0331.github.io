@@ -1,7 +1,7 @@
 title: chen331 # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   男的<br/>
-  小陈<br/>
+  XC0331<br/>
   rockstargames<br/>
   <a href="mailto:i@wu-kan.cn">
     <i class="fa-solid fa-envelope"></i>
@@ -38,13 +38,13 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
         </script>
         default:
           body:
-            theme-base: theme-base-07 # 可选的主题色包括08~0f，见 <https://github.com/poole/lanyon>
+            theme-base: theme-base-0f # 可选的主题色包括08~0f，见 <https://github.com/poole/lanyon>
             layout-reverse: true # 开启后sidebar在右边，反之左边
             sidebar-overlay: true # 开启后正文不随sidebar移动而移动
           html_lang: zh # <https://www.w3school.com.cn/tags/html_ref_language_codes.asp>
           sidebar: # 此配置项下是一些关于侧边栏的配置
             disable: false # 是否不显示sidebar
-            avatar: # 侧边栏显示的头像
+            avatar:
               enable: true
               img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
@@ -213,7 +213,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     document.getElementById("run_time_hour"),
                     document.getElementById("run_time_minute"),
                     document.getElementById("run_time_second"),
-                    "10/04/2017 11:03:56")// 这是我第一篇CSDN博客的时间
+                    "12/04/2021 11:03:56")// 这是我第一篇CSDN博客的时间
                   </script>
                 </div>
               - | # 不蒜子页面统计，看不懂可不改
